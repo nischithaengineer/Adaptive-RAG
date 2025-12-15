@@ -53,7 +53,7 @@ TAVILY_API_KEY=your_tavily_api_key_here
 
 1. Open the Jupyter notebook:
 ```bash
-jupyter notebook 4-AdaptiveRAG.ipynb
+jupyter notebook AdaptiveRAG.ipynb
 ```
 
 2. Run the cells sequentially to:
