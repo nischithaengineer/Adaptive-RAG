@@ -1,0 +1,16 @@
+# Core dependencies
+python-dotenv
+pydantic
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langgraph
+
+# Vector store
+faiss-cpu
+langchain-tavily
+ipykernel
+
